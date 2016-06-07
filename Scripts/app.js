@@ -1,11 +1,11 @@
 /**
  * FileName: app.js
  * 
- * @author Tom Tsiliopoulos
- * @date June 1, 2016
+ * @author Larissa Zocche
+ * @date June 6, 2016
  * 
- * StudentID: 300818557
- * website: comp125-s2016-lesson4.azurewebsites.net
+ * StudentID: 300870340
+ * website: 
  * @description This file is the main javascript file for the web site
  */
 
