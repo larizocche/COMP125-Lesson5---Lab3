@@ -5,7 +5,7 @@
  * @date June 10, 2016
  * 
  * StudentID: 300870340
- * website: 
+ * website: http://comp125-lesson5-lab3.azurewebsites.net/
  * @description This file is the main javascript file for the web site
  */
 
