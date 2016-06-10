@@ -2,7 +2,7 @@
  * FileName: app.js
  * 
  * @author Larissa Zocche
- * @date June 6, 2016
+ * @date June 10, 2016
  * 
  * StudentID: 300870340
  * website: 
@@ -12,8 +12,6 @@
 // IIFE - Immediately Invoked Function Expression
 (function(){
     "use strict";
-    
-    /* this is a test for Cloud 9 */
     
     // define an array of HTML elements
     var paragraphElements = [];
@@ -72,8 +70,6 @@
         console.log("First Name: " + firstName.value);
         console.log("++++++++++++++++++++++++++++++++");
     }
-    
-   
     
     
     // data for my pages
